@@ -1,0 +1,5 @@
+{
+  "test": "vote_proposal_42",
+  "result": "AGREE",
+  "status": "FINALIZED"
+}
