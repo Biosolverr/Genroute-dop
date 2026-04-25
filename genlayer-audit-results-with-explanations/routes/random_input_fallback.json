@@ -1,0 +1,12 @@
+{
+  "input": "lol do random stuff idk",
+  "method": "route",
+  "output": {
+    "executor": "social_executor",
+    "intent": "social_executor",
+    "confidence": 92,
+    "consensus_used": false
+  },
+  "status": "FINALIZED",
+  "result": "SUCCESS"
+}
