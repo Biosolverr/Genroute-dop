@@ -1,0 +1,12 @@
+{
+  "input": "asdkjashdkjashdkjashdkjashd",
+  "method": "route",
+  "output": {
+    "executor": "consensus_executor",
+    "intent": "consensus_executor",
+    "confidence": 97,
+    "consensus_used": false
+  },
+  "status": "FINALIZED",
+  "result": "SUCCESS"
+}
