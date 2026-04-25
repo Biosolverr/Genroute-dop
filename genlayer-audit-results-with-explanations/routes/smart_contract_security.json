@@ -1,0 +1,12 @@
+{
+  "input": "Analyze smart contract security",
+  "method": "route",
+  "output": {
+    "executor": "audit_executor",
+    "intent": "audit_executor",
+    "confidence": 95,
+    "consensus_used": false
+  },
+  "status": "FINALIZED",
+  "result": "SUCCESS"
+}
