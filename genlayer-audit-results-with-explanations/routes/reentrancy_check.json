@@ -1,0 +1,12 @@
+{
+  "input": "Check this contract for reentrancy vulnerability",
+  "method": "route",
+  "output": {
+    "executor": "audit_executor",
+    "intent": "audit_executor",
+    "confidence": 99,
+    "consensus_used": false
+  },
+  "status": "FINALIZED",
+  "result": "SUCCESS"
+}
