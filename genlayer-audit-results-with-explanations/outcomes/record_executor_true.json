@@ -1,0 +1,5 @@
+{
+  "method": "record_outcome",
+  "args": ["executor", "true", false],
+  "status": "ACCEPTED"
+}
