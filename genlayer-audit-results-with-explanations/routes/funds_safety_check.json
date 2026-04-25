@@ -1,0 +1,12 @@
+{
+  "input": "Is this safe and should I send funds?",
+  "method": "route",
+  "output": {
+    "executor": "audit_executor",
+    "intent": "audit_executor",
+    "confidence": 98,
+    "consensus_used": false
+  },
+  "status": "FINALIZED",
+  "result": "SUCCESS"
+}
