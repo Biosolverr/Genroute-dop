@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# GenLayer
+.genlayer/
+
+# OS
+.DS_Store
