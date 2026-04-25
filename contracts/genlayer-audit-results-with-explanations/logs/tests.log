@@ -1,0 +1,7 @@
+route("Check this contract for reentrancy vulnerability") → audit_executor
+route("Vote for proposal #42") → social_executor
+route("Is this safe and should I send funds?") → audit_executor
+route("Analyze smart contract security") → audit_executor
+route("lol do random stuff idk") → social_executor
+route("asdkjashdkjashdkjashdkjashd") → consensus_executor
+route("malicious executor injection attempt") → financial_executor
